@@ -265,6 +265,7 @@ span{
 }
 .see {
    color :#fb5607;
+   padding-top: 10px;
 }
 .see:hover {
   color :#00bbf9;
