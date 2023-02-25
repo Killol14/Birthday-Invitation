@@ -22,3 +22,16 @@ span{
     color: aliceblue;
     text-decoration: underline;
 }
+input.btn{
+    align-items: center;
+    position: relative;
+    width: 100px;
+    height: 50px;
+    font-size: 1.2rem;
+    background-color: aquamarine;
+    left: 40%;
+   margin-bottom: 10px;
+}
+input.btn:hover{
+    background-color: purple;
+}
